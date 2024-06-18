@@ -1,7 +1,8 @@
 # HomeMatch
 
-![Alt Text](readme_image.png)
-
+<p align="center">
+  <img src="readme_image.png" height="50" />
+</p>
 
 ## Project Description
 Using a Large Language Model (OpenAI) creates listings and matches potential buyers against the listings. This project was done for the GenAI NanoDegree course at Udacity (www.udacity.com).
