@@ -1,6 +1,6 @@
 # HomeMatch
 
-![Alt Text](readme.png)
+![Alt Text](readme_image.png)
 
 
 ## Project Description
