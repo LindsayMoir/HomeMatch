@@ -14,3 +14,4 @@ These are the major steps that are provided for in this application.
 - Step 4: Building the User Preference Interface
 - Step 5: Searching Based on Preferences
 - Step 6: Personalizing Listing Descriptions
+- Step 7: Multi Modal Search Using CLIP
